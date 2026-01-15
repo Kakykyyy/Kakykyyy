@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Desenvolvedor em início de carreira, com foco em **desenvolvimento de software e soluções web**  
-🚀 Buscando ** oportunidade como Desenvolvedor Júnior / Estagiário em TI**
+🚀 Buscando **oportunidade como Desenvolvedor Júnior / Estagiário em TI**
 
 ---
 
