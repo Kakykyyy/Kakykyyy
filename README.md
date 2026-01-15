@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Olá, eu sou Kayky Erick!
 
-<!--
-**Kakykyyy/Kakykyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Desenvolvedor em início de carreira, com foco em **desenvolvimento de software e soluções web**  
+🚀 Buscando ** oportunidade como Desenvolvedor Júnior / Estagiário em TI**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+Sou apaixonado por tecnologia e estou sempre buscando evoluir minhas habilidades através de projetos práticos, estudos contínuos e desafios reais.  
+Tenho experiência com lógica de programação, desenvolvimento web e noções de backend, sempre focando em código limpo e boas práticas.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python, JavaScript  
+- **Frontend:** HTML5, CSS3  
+- **Backend (em estudo):** Python  
+- **Banco de Dados:** SQL (conceitos)  
+- **Ferramentas:** Git, GitHub, VS Code  
+- **Outros:** Lógica de programação, versionamento de código
+
+---
+
+## 📂 Projetos em destaque
+Aqui no meu GitHub você encontrará projetos que desenvolvi para:
+- Praticar lógica de programação
+- Aplicar conceitos aprendidos na faculdade
+- Desenvolver aplicações simples e funcionais
+- Evoluir gradualmente para projetos mais completos
+
+👉 Fique à vontade para explorar os repositórios fixados abaixo 👇
+
+---
+
+## 📈 Em constante evolução
+Atualmente estou:
+- Aprofundando meus estudos em **desenvolvimento web**
+- Criando projetos práticos para fortalecer meu portfólio
+- Aprendendo mais sobre **boas práticas, estrutura de código e backend**
+
+---
+
+## 📫 Como me encontrar 
+- 📧 Email: kaykyrck@gmail.com 
+
+---
+
+⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
