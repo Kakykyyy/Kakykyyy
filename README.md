@@ -47,3 +47,6 @@ Atualmente estou:
 ---
 
 ⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?Kakykyyy)](https://git.io/streak-stats)
