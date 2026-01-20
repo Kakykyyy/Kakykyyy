@@ -49,4 +49,4 @@ Atualmente estou:
 ⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kakykyyy)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-weld.vercel.app?user=Kakykyy&theme=vitesse&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
