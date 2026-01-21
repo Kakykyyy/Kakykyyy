@@ -10,6 +10,11 @@
 Sou apaixonado por tecnologia e estou sempre buscando evoluir minhas habilidades através de projetos práticos, estudos contínuos e desafios reais.  
 Tenho experiência com lógica de programação, desenvolvimento web e noções de backend, sempre focando em código limpo e boas práticas.
 
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakykyyy&layout=compact&theme=dark" />
+</p>
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
