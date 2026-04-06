@@ -20,7 +20,7 @@ Tenho experiência com lógica de programação, desenvolvimento web e noções 
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Linguagens:** Python, JavaScript  
-- **Frontend:** HTML5, CSS3  
+- **Frontend:** HTML5, PHP, CSS3  
 - **Backend (em estudo):** Python  
 - **Banco de Dados:** SQL (conceitos)  
 - **Ferramentas:** Git, GitHub, VS Code  
