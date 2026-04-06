@@ -41,6 +41,8 @@ Desenvolvendo sistemas completos para portfólio
 📧 Email: kaykyrck@gmail.com
 💼 LinkedIn: linkedin.com/in/kayky-erick-14835a2a6/
 💻 GitHub: github.com/Kakykyyy
+
+
 💡 Objetivo profissional
 
 Meu objetivo é entrar na área de desenvolvimento e, com o tempo, me tornar um Desenvolvedor Full Stack, participando de projetos cada vez maiores e mais complexos, contribuindo com soluções que realmente ajudem empresas e pessoas.
