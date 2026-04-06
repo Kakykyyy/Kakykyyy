@@ -1,56 +1,49 @@
-# 👋 Olá, eu sou Kayky Erick!
+🧠 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Desenvolvedor em início de carreira, com foco em **desenvolvimento de software e soluções web**  
-🚀 Buscando **oportunidade como Desenvolvedor Júnior / Estagiário em TI**
+Sou estudante de tecnologia com experiência prática em desenvolvimento de sistemas web, banco de dados e suporte técnico. Já trabalhei com atendimento ao público, organização de informações e desenvolvimento de soluções para melhorar processos, o que me ajudou a desenvolver não apenas habilidades técnicas, mas também organização, comunicação e resolução de problemas.
 
----
+Tenho como objetivo crescer na área de desenvolvimento de software, participando de projetos reais, aprendendo novas tecnologias e evoluindo constantemente como profissional.
 
-## 🧠 Sobre mim
-Sou apaixonado por tecnologia e estou sempre buscando evoluir minhas habilidades através de projetos práticos, estudos contínuos e desafios reais.  
-Tenho experiência com lógica de programação, desenvolvimento web e noções de backend, sempre focando em código limpo e boas práticas.
+🛠️ Tecnologias & Ferramentas
+Linguagens: Python, JavaScript, PHP
+Frontend: HTML5, CSS3
+Backend: PHP e Python (CRUD, autenticação, formulários, sessões)
+Banco de Dados: MySQL / SQL (modelagem, SELECT, INSERT, UPDATE, DELETE)
+Ferramentas: Git, GitHub, VS Code
+Outros conhecimentos: Lógica de programação, versionamento, estrutura de sistemas, manutenção e suporte técnico
+📂 Projetos em destaque
 
-## Most Used Languages
+Alguns projetos que já desenvolvi ou estou desenvolvendo:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakykyyy&layout=compact&theme=dark" />
-</p>
+🗂️ Sistema de Gestão de Atendimentos
+Sistema com login, cadastro de pessoas, registro de atendimentos e relatórios.
+💇‍♀️ Sistema para Salão de Beleza
+Cadastro de clientes, serviços, agendamentos e controle básico financeiro.
+📊 Otimização do Ambiente Virtual de Aprendizagem (AVA)
+Projeto acadêmico com foco em UX, melhoria de sistema e experiência do usuário, utilizando Design Thinking.
 
----
+Esses projetos foram importantes para desenvolver:
 
-## 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Python, JavaScript  
-- **Frontend:** HTML5, PHP, CSS3  
-- **Backend (em estudo):** Python  
-- **Banco de Dados:** SQL (conceitos)  
-- **Ferramentas:** Git, GitHub, VS Code  
-- **Outros:** Lógica de programação, versionamento de código
+CRUD completo
+Integração com banco de dados
+Estruturação de sistemas
+Pensamento lógico
+Resolução de problemas reais
+📈 Em constante evolução
 
----
-
-## 📂 Projetos em destaque
-Aqui no meu GitHub você encontrará projetos que desenvolvi para:
-- Praticar lógica de programação
-- Aplicar conceitos aprendidos na faculdade
-- Desenvolver aplicações simples e funcionais
-- Evoluir gradualmente para projetos mais completos
-
-👉 Fique à vontade para explorar os repositórios fixados abaixo 👇
-
----
-
-## 📈 Em constante evolução
 Atualmente estou:
-- Aprofundando meus estudos em **desenvolvimento web**
-- Criando projetos práticos para fortalecer meu portfólio
-- Aprendendo mais sobre **boas práticas, estrutura de código e backend**
 
----
+Aprofundando meus estudos em desenvolvimento web
+Aprendendo mais sobre backend e banco de dados
+Estudando engenharia de software e boas práticas
+Desenvolvendo sistemas completos para portfólio
+📫 Como me encontrar
+📧 Email: kaykyrck@gmail.com
+💼 LinkedIn: linkedin.com/in/kayky-erick-14835a2a6/
+💻 GitHub: github.com/Kakykyyy
+💡 Objetivo profissional
 
-## 📫 Como me encontrar 
-- 📧 Email: kaykyrck@gmail.com 
-
----
+Meu objetivo é entrar na área de desenvolvimento e, com o tempo, me tornar um Desenvolvedor Full Stack, participando de projetos cada vez maiores e mais complexos, contribuindo com soluções que realmente ajudem empresas e pessoas.
 
 ⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
-
+Isso ajuda muito e me motiva a continuar evoluindo. 🚀
