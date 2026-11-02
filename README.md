@@ -1,51 +1,59 @@
-🧠 Sobre mim
+<div align="center">
 
-Sou estudante de tecnologia com experiência prática em desenvolvimento de sistemas web, banco de dados e suporte técnico. Já trabalhei com atendimento ao público, organização de informações e desenvolvimento de soluções para melhorar processos, o que me ajudou a desenvolver não apenas habilidades técnicas, mas também organização, comunicação e resolução de problemas.
+# Olá, eu sou o Kayky Erick
 
-Tenho como objetivo crescer na área de desenvolvimento de software, participando de projetos reais, aprendendo novas tecnologias e evoluindo constantemente como profissional.
+**Desenvolvedor web em formação**
 
-🛠️ Tecnologias & Ferramentas
-Linguagens: Python, JavaScript, PHP
-Frontend: HTML5, CSS3
-Backend: PHP e Python (CRUD, autenticação, formulários, sessões)
-Banco de Dados: MySQL / SQL (modelagem, SELECT, INSERT, UPDATE, DELETE)
-Ferramentas: Git, GitHub, VS Code
-Outros conhecimentos: Lógica de programação, versionamento, estrutura de sistemas, manutenção e suporte técnico
-📂 Projetos em destaque
+Construindo projetos, praticando fundamentos e transformando ideias em aplicações.
 
-Alguns projetos que já desenvolvi ou estou desenvolvendo:
+[Projetos](#projetos-em-destaque) · [Tecnologias](#tecnologias) · [Contato](#contato)
 
-🗂️ Sistema de Gestão de Atendimentos
-Sistema com login, cadastro de pessoas, registro de atendimentos e relatórios.
-💇‍♀️ Sistema para Salão de Beleza
-Cadastro de clientes, serviços, agendamentos e controle básico financeiro.
-📊 Otimização do Ambiente Virtual de Aprendizagem (AVA)
-Projeto acadêmico com foco em UX, melhoria de sistema e experiência do usuário, utilizando Design Thinking.
+</div>
 
-Esses projetos foram importantes para desenvolver:
+---
 
-CRUD completo
-Integração com banco de dados
-Estruturação de sistemas
-Pensamento lógico
-Resolução de problemas reais
-📈 Em constante evolução
+## Sobre mim
 
-Atualmente estou:
+Sou estudante de tecnologia e desenvolvo projetos para aprofundar meus conhecimentos em programação, aplicações web e bancos de dados. Minha experiência com suporte técnico, atendimento e organização de informações também orienta a forma como penso em soluções.
 
-Aprofundando meus estudos em desenvolvimento web
-Aprendendo mais sobre backend e banco de dados
-Estudando engenharia de software e boas práticas
-Desenvolvendo sistemas completos para portfólio
-📫 Como me encontrar
-📧 Email: kaykyrck@gmail.com
-💼 LinkedIn: linkedin.com/in/kayky-erick-14835a2a6/
-💻 GitHub: github.com/Kakykyyy
+Busco uma oportunidade para contribuir em projetos reais, aprender com uma equipe e crescer como desenvolvedor.
 
+## Tecnologias
 
-💡 Objetivo profissional
+| Área | Conhecimentos e prática |
+|---|---|
+| Linguagens | Python, JavaScript e PHP |
+| Interface web | HTML e CSS |
+| Banco de dados | MySQL, SQL e SQLite |
+| Desenvolvimento | CRUD, formulários, sessões e APIs |
+| Ferramentas | Git, GitHub e VS Code |
+| Em aprendizado | React, TypeScript e boas práticas de engenharia de software |
 
-Meu objetivo é entrar na área de desenvolvimento e, com o tempo, me tornar um Desenvolvedor Full Stack, participando de projetos cada vez maiores e mais complexos, contribuindo com soluções que realmente ajudem empresas e pessoas.
+## Projetos em destaque
 
-⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
-Isso ajuda muito e me motiva a continuar evoluindo. 🚀
+| Projeto | Proposta | Tecnologias |
+|---|---|---|
+| [Sistema Salão Nil Sisters](https://github.com/Kakykyyy/sistema-salao) | Cadastros, agendamentos e acompanhamento financeiro | PHP · MySQL |
+| [Barcode API](https://github.com/Kakykyyy/barcode-API) | Cadastro e consulta de produtos por código de barras | Python · FastAPI · SQLite |
+| [Dev Junior Projects](https://github.com/Kakykyyy/dev-junior-projects) | Exercícios práticos de contatos, usuários, tarefas e finanças | Python · Java · JavaScript |
+| [Praela](https://github.com/Kakykyyy/praela) | Homenagem digital com interações e chatbot predefinido | HTML · CSS · JavaScript · Express |
+| [Três Anos](https://github.com/Kakykyyy/tres_anos) | Site comemorativo com fotos, contador e música | React · TypeScript |
+| [Estudos de Machine Learning](https://github.com/Kakykyyy/kaykysantos.4na) | Regressão, classificação e avaliação de modelos | Python · scikit-learn |
+
+## O que estou desenvolvendo
+
+- Organização e manutenção de aplicações web.
+- Integração entre interface, lógica de negócio e banco de dados.
+- Construção de APIs e compreensão dos seus contratos.
+- Documentação clara e uso de versionamento.
+- Fundamentos para evoluir como desenvolvedor full stack.
+
+## Contato
+
+- [Email](mailto:kaykyrck@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kayky-erick-14835a2a6/)
+- [Repositórios no GitHub](https://github.com/Kakykyyy?tab=repositories)
+
+---
+
+[Guia de manutenção deste perfil](DOCUMENTACAO.md)
