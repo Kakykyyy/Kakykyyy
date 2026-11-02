@@ -49,3 +49,6 @@ Meu objetivo é entrar na área de desenvolvimento e, com o tempo, me tornar um 
 
 ⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
 Isso ajuda muito e me motiva a continuar evoluindo. 🚀
+
+
+[Guia de manutenção deste perfil](DOCUMENTACAO.md)
