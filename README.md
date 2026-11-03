@@ -60,3 +60,5 @@ Meu foco é construir sistemas web que conectem dados, interfaces e automações
 [💼 LinkedIn](https://www.linkedin.com/in/kaykyerickdev/) · [✉️ E-mail](mailto:kaykyrck@gmail.com) · [💻 GitHub](https://github.com/Kakykyyy)
 
 ![Salvando progresso](assets/footer.svg)
+
+[Guia de manutenção](DOCUMENTACAO.md)
