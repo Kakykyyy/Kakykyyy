@@ -2,11 +2,9 @@
 
 # Kayky Erick
 
-**Desenvolvedor web em formação · APIs, integrações e bancos de dados**
+**Desenvolvedor Web · PHP, JavaScript e Python**
 
-Estudo tecnologia e crio sistemas web para organizar dados e simplificar rotinas. No CampaignFlow, conectei uma API a um fluxo de importação, segmentação de clientes e agendamento de mensagens.
-
-🎯 **Busco estágio em desenvolvimento ou uma vaga de Desenvolvedor Web Júnior.**
+Desenvolvo sistemas web para organizar dados e simplificar rotinas. No CampaignFlow, conectei uma API a um fluxo de importação, segmentação de clientes e agendamento de mensagens.
 
 [💼 LinkedIn](https://www.linkedin.com/in/kaykyerickdev/) · [✉️ E-mail](mailto:kaykyrck@gmail.com) · [💻 Repositórios](https://github.com/Kakykyyy?tab=repositories)
 
@@ -14,11 +12,11 @@ Estudo tecnologia e crio sistemas web para organizar dados e simplificar rotinas
 
 A energia verde vem do Broly. Por aqui, a transformação acontece a cada problema resolvido, integração que funciona e bug que finalmente dá as caras.
 
-- **Missão atual** · Evoluir como desenvolvedor full stack.
-- **Treino em curso** · Criar APIs, modelar dados e construir interfaces que façam sentido para quem usa.
-- **Próxima fase** · Trabalhar em equipe em projetos de desenvolvimento web.
+- **Back-end** · APIs, regras de negócio e integração entre sistemas.
+- **Dados** · Modelagem, consultas SQL e importação de dados.
+- **Front-end** · Interfaces para consultar, revisar e operar fluxos de trabalho.
 
-## 🧪 Câmara de treinamento
+## 🧪 Arsenal técnico
 
 | Área | Equipamento |
 | --- | --- |
@@ -61,7 +59,7 @@ A API permite cadastrar produtos, consultar por ID, listar com paginação e exc
 
 ## 📡 Canal de comunicação
 
-Quer conversar sobre uma vaga, um projeto ou uma integração? Me chama.
+Quer conversar sobre um projeto web ou uma integração? Me chama.
 
 [💼 LinkedIn](https://www.linkedin.com/in/kaykyerickdev/) · [✉️ E-mail](mailto:kaykyrck@gmail.com) · [💻 GitHub](https://github.com/Kakykyyy)
 
