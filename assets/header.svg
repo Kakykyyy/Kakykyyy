@@ -15,27 +15,35 @@
     </pattern>
     <style>
       @keyframes pulse { 50% { opacity: .45; } }
+      @keyframes charge { to { stroke-dashoffset: -52; } }
+      @keyframes spark { 0%, 100% { opacity: .25; } 50% { opacity: 1; } }
+      .ring { animation: charge 6s linear infinite; }
+      .spark { animation: spark 2.8s ease-in-out infinite; }
       .pulse { animation: pulse 4s ease-in-out infinite; }
-      @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+      @media (prefers-reduced-motion: reduce) { .pulse, .ring, .spark { animation: none; } }
     </style>
   </defs>
   <rect x="1" y="1" width="898" height="290" rx="19" fill="#080A0F" stroke="#264638"/>
   <path d="M480 17H870L882 29V262L869 275H467Z" fill="url(#grid)" opacity=".65"/>
   <ellipse class="pulse" cx="707" cy="147" rx="191" ry="140" fill="url(#aura)"/>
   <g fill="none" stroke="#39FF88">
-    <circle cx="708" cy="145" r="101" opacity=".31" stroke-dasharray="5 8"/>
+    <circle class="ring" cx="708" cy="145" r="101" opacity=".31" stroke-dasharray="5 8"/>
     <circle cx="708" cy="145" r="118" opacity=".2"/>
     <path class="pulse" d="m590 63 25 33-19 11 44 32m162-86-17 42 20 8-28 40 36 2m-260 80 43-18-11-14 48-22m202 56-28-24 26-14-37-14" stroke-width="2"/>
   </g>
-  <path d="m707 239-53-68 18 7-27-60 30 19-6-47 20 19 21-64 14 62 31-32-10 58 36-20-27 52 17-4Z" fill="url(#flare)"/>
+  <path d="m706 202-49-64 24 9-34-67 36 22-10-53 26 26 22-55 10 59 33-31-15 58 38-18-33 54 24-7Z" fill="url(#flare)"/>
   <path d="m707 239-30-77 17 12 16-66 14 54 21-15Z" fill="#080A0F" opacity=".82"/>
+  <path d="M598 252 618 198 660 174 685 170 690 152 728 152 735 170 761 175 800 201 820 252Z" fill="#080A0F" stroke="#39FF88" stroke-opacity=".5"/>
+  <path d="m682 150-12-22 21 8 20-18 17 17 23-9-13 25-12 21h-32Z" fill="#0B1713"/>
+  <path class="spark" d="m693 145 13 5-11-1zm29 5 13-5-3 4z" fill="#C5FF98"/>
+  <g class="spark" fill="#A1FFC7"><circle cx="594" cy="142" r="3"/><circle cx="641" cy="67" r="2"/><circle cx="804" cy="99" r="3"/><circle cx="843" cy="172" r="2"/><circle cx="774" cy="61" r="2"/></g>
   <path d="M27 60h441m-441 170h441m-441 30v13h20m806 0h20v-13" fill="none" stroke="#264638"/>
   <g font-family="Consolas, monospace">
     <circle cx="37" cy="35" r="4" fill="#39FF88"/>
-    <text x="50" y="40" fill="#39FF88" font-size="15" letter-spacing="2">SISTEMA ONLINE</text>
+    <text x="50" y="40" fill="#39FF88" font-size="15" letter-spacing="2">MODO LENDÁRIO ONLINE</text>
     <text x="29" y="139" fill="#F5F5F5" font-size="77" font-weight="700">KAYKY<tspan fill="#39FF88">.exe</tspan></text>
     <text x="34" y="178" fill="#9FB3A8" font-size="20" letter-spacing="3">DEVELOPER UNIVERSE</text>
     <text x="34" y="208" fill="#F5F5F5" font-size="19">Desenvolvedor web em formação</text>
-    <text x="34" y="258" fill="#39FF88" font-size="15" letter-spacing="2">FULL STACK IN PROGRESS</text>
+    <text x="34" y="258" fill="#39FF88" font-size="15" letter-spacing="2">TREINO FULL STACK EM CURSO</text>
   </g>
 </svg>

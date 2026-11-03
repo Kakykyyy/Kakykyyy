@@ -1,50 +1,68 @@
-![KAYKY.exe · Developer Universe](assets/header.svg)
+![KAYKY.exe em modo lendário, com uma aura verde inspirada no Broly](assets/header.svg)
 
 # Kayky Erick
 
 **Desenvolvedor web em formação · APIs, integrações e bancos de dados**
 
-Estudo tecnologia e desenvolvo sistemas web que ajudam a organizar dados e simplificar rotinas. No CampaignFlow, trabalhei com importação de dados de uma API, segmentação de clientes e agendamento de mensagens.
+Estudo tecnologia e crio sistemas web para organizar dados e simplificar rotinas. No CampaignFlow, conectei uma API a um fluxo de importação, segmentação de clientes e agendamento de mensagens.
 
-**Busco estágio em desenvolvimento ou uma vaga de Desenvolvedor Web Júnior.**
+🎯 **Busco estágio em desenvolvimento ou uma vaga de Desenvolvedor Web Júnior.**
 
-[Conecte-se comigo no LinkedIn →](https://www.linkedin.com/in/kaykyerickdev/)
+[💼 LinkedIn](https://www.linkedin.com/in/kaykyerickdev/) · [✉️ E-mail](mailto:kaykyrck@gmail.com) · [💻 Repositórios](https://github.com/Kakykyyy?tab=repositories)
 
-## ◈ Missão atual
+## ⚡ Modo lendário
 
-- **Status** · Em evolução
-- **Foco** · Desenvolvimento web, APIs e integração com bancos de dados
-- **Aprendizado** · Evoluir no back-end e aprimorar a experiência de quem usa minhas aplicações
+A energia verde vem do Broly. Por aqui, a transformação acontece a cada problema resolvido, integração que funciona e bug que finalmente dá as caras.
 
-## ◈ Stack
+- **Missão atual** · Evoluir como desenvolvedor full stack.
+- **Treino em curso** · Criar APIs, modelar dados e construir interfaces que façam sentido para quem usa.
+- **Próxima fase** · Trabalhar em equipe em projetos de desenvolvimento web.
 
-| Área | Tecnologias |
+## 🧪 Câmara de treinamento
+
+| Área | Equipamento |
 | --- | --- |
 | Linguagens | Python · JavaScript · PHP |
 | Front-end | HTML5 · CSS3 · Bootstrap |
 | Back-end | FastAPI · SQLAlchemy |
-| Dados | SQL · SQLite · MySQL |
+| Banco de dados | SQL · SQLite · MySQL |
 | Ferramentas | Git · GitHub · VS Code |
 
-## ◈ Projetos em destaque
+## 🥊 Missões em destaque
 
 ### 01 · [CampaignFlow](https://github.com/Kakykyyy/campaignflow)
 
-Aplicação de avaliação técnica que organiza campanhas de e-commerce. Importa clientes e carrinhos da DummyJSON, segmenta clientes por regras e permite revisar os segmentos antes de agendar mensagens. O painel acompanha o cronograma e exporta o histórico filtrado em CSV. Os envios de WhatsApp são simulados localmente.
+**Desafio** · Transformar dados de clientes e carrinhos em campanhas que possam ser revisadas e acompanhadas.
+
+O sistema importa dados da DummyJSON, segmenta clientes por regras e permite revisar os segmentos antes de agendar mensagens. O painel mostra o cronograma e exporta o histórico filtrado em CSV. Os envios de WhatsApp são simulados localmente.
 
 **Stack** · Python, FastAPI, SQLAlchemy, SQLite, Jinja2, Bootstrap e JavaScript  
-[Capturas da aplicação](https://github.com/Kakykyyy/campaignflow/tree/main/docs/screenshots)
+[📸 Ver capturas da aplicação](https://github.com/Kakykyyy/campaignflow/tree/main/docs/screenshots)
 
 ### 02 · [Barcode API](https://github.com/Kakykyyy/barcode-API)
 
-API de catálogo de produtos. A implementação permite cadastrar produtos, consultar por ID, listar com paginação e excluir registros. O cadastro sinaliza quando o produto já existe.
+**Desafio** · Organizar um catálogo de produtos com operações simples de consulta e cadastro.
+
+A API permite cadastrar produtos, consultar por ID, listar com paginação e excluir registros. O cadastro sinaliza produtos duplicados.
 
 **Stack** · Python, FastAPI e SQLAlchemy
 
-[Ver todos os repositórios →](https://github.com/Kakykyyy?tab=repositories)
+<details>
+<summary>🔓 Abrir o terminal de rotas da Barcode API</summary>
 
-## ◈ Contato
+| Operação | Rota |
+| --- | --- |
+| Cadastrar | `POST /produtos/` |
+| Listar | `GET /produtos/` |
+| Consultar por ID | `GET /produtos/{product_id}` |
+| Excluir | `DELETE /produtos/{product_id}` |
 
-[💼 LinkedIn](https://www.linkedin.com/in/kaykyerickdev/) · [⌘ GitHub](https://github.com/Kakykyyy) · [✉️ E-mail](mailto:kaykyrck@gmail.com)
+</details>
 
-![Cada projeto é uma nova etapa.](assets/footer.svg)
+## 📡 Canal de comunicação
+
+Quer conversar sobre uma vaga, um projeto ou uma integração? Me chama.
+
+[💼 LinkedIn](https://www.linkedin.com/in/kaykyerickdev/) · [✉️ E-mail](mailto:kaykyrck@gmail.com) · [💻 GitHub](https://github.com/Kakykyyy)
+
+![Salvando progresso. Até a próxima!](assets/footer.svg)
