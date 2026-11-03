@@ -1,51 +1,47 @@
-🧠 Sobre mim
+![KAYKY.exe · Developer Universe](assets/header.svg)
 
-Sou estudante de tecnologia com experiência prática em desenvolvimento de sistemas web, banco de dados e suporte técnico. Já trabalhei com atendimento ao público, organização de informações e desenvolvimento de soluções para melhorar processos, o que me ajudou a desenvolver não apenas habilidades técnicas, mas também organização, comunicação e resolução de problemas.
+# Kayky Erick
 
-Tenho como objetivo crescer na área de desenvolvimento de software, participando de projetos reais, aprendendo novas tecnologias e evoluindo constantemente como profissional.
+**Desenvolvedor web em formação · Rumo ao full stack**
 
-🛠️ Tecnologias & Ferramentas
-Linguagens: Python, JavaScript, PHP
-Frontend: HTML5, CSS3
-Backend: PHP e Python (CRUD, autenticação, formulários, sessões)
-Banco de Dados: MySQL / SQL (modelagem, SELECT, INSERT, UPDATE, DELETE)
-Ferramentas: Git, GitHub, VS Code
-Outros conhecimentos: Lógica de programação, versionamento, estrutura de sistemas, manutenção e suporte técnico
-📂 Projetos em destaque
+Sou estudante de tecnologia e tenho experiência prática com sistemas web, bancos de dados e suporte técnico. Gosto de organizar dados, integrar serviços e transformar tarefas manuais em fluxos mais simples.
 
-Alguns projetos que já desenvolvi ou estou desenvolvendo:
+## ◈ Missão atual
 
-🗂️ Sistema de Gestão de Atendimentos
-Sistema com login, cadastro de pessoas, registro de atendimentos e relatórios.
-💇‍♀️ Sistema para Salão de Beleza
-Cadastro de clientes, serviços, agendamentos e controle básico financeiro.
-📊 Otimização do Ambiente Virtual de Aprendizagem (AVA)
-Projeto acadêmico com foco em UX, melhoria de sistema e experiência do usuário, utilizando Design Thinking.
+- **Status** · Em evolução
+- **Foco** · Desenvolvimento web, APIs e integração com bancos de dados
+- **Objetivo** · Estágio em desenvolvimento ou vaga de Desenvolvedor Web Júnior
+- **Aprendizado** · Evoluir no back-end e aprimorar a experiência de quem usa minhas aplicações
 
-Esses projetos foram importantes para desenvolver:
+## ◈ Stack
 
-CRUD completo
-Integração com banco de dados
-Estruturação de sistemas
-Pensamento lógico
-Resolução de problemas reais
-📈 Em constante evolução
+| Área | Tecnologias |
+| --- | --- |
+| Linguagens | Python · JavaScript · PHP |
+| Front-end | HTML5 · CSS3 · Bootstrap |
+| Back-end | FastAPI · SQLAlchemy |
+| Dados | SQL · SQLite · MySQL |
+| Ferramentas | Git · GitHub · VS Code |
 
-Atualmente estou:
+## ◈ Projetos em destaque
 
-Aprofundando meus estudos em desenvolvimento web
-Aprendendo mais sobre backend e banco de dados
-Estudando engenharia de software e boas práticas
-Desenvolvendo sistemas completos para portfólio
-📫 Como me encontrar
-📧 Email: kaykyrck@gmail.com
-💼 LinkedIn: linkedin.com/in/kayky-erick-14835a2a6/
-💻 GitHub: github.com/Kakykyyy
+### [CampaignFlow](https://github.com/Kakykyyy/campaignflow)
 
+Aplicação de avaliação técnica que organiza campanhas de e-commerce. Importa clientes e carrinhos da DummyJSON, segmenta clientes por regras e permite revisar os segmentos antes de agendar mensagens. O painel acompanha o cronograma e exporta o histórico filtrado em CSV. Os envios de WhatsApp são simulados localmente.
 
-💡 Objetivo profissional
+**Stack** · Python, FastAPI, SQLAlchemy, SQLite, Jinja2, Bootstrap e JavaScript  
+[Capturas da aplicação](https://github.com/Kakykyyy/campaignflow/tree/main/docs/screenshots)
 
-Meu objetivo é entrar na área de desenvolvimento e, com o tempo, me tornar um Desenvolvedor Full Stack, participando de projetos cada vez maiores e mais complexos, contribuindo com soluções que realmente ajudem empresas e pessoas.
+### [Barcode API](https://github.com/Kakykyyy/barcode-API)
 
-⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
-Isso ajuda muito e me motiva a continuar evoluindo. 🚀
+API de catálogo de produtos. A implementação permite cadastrar produtos, consultar por ID, listar com paginação e excluir registros. O cadastro sinaliza quando o produto já existe.
+
+**Stack** · Python, FastAPI e SQLAlchemy
+
+[Ver todos os repositórios →](https://github.com/Kakykyyy?tab=repositories)
+
+## ◈ Contato
+
+[💼 LinkedIn](https://linkedin.com/in/kayky-erick-14835a2a6/) · [⌘ GitHub](https://github.com/Kakykyyy) · [✉️ E-mail](mailto:kaykyrck@gmail.com)
+
+![Cada projeto é uma nova etapa.](assets/footer.svg)
