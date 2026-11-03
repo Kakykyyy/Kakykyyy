@@ -1,66 +1,62 @@
-![KAYKY.exe em modo lendário, com uma aura verde inspirada no Broly](assets/header.svg)
+## 01 — INITIALIZATION
 
-# Kayky Erick
+![Painel de Kayky Erick, desenvolvedor web, com aura verde e quatro cards de perfil](assets/header.svg)
 
-**Desenvolvedor Web · PHP, JavaScript e Python**
+## 02 — PLAYER PROFILE
 
-Desenvolvo sistemas web para organizar dados e simplificar rotinas. No CampaignFlow, conectei uma API a um fluxo de importação, segmentação de clientes e agendamento de mensagens.
+**Kayky Erick · Desenvolvedor Web**
 
-[💼 LinkedIn](https://www.linkedin.com/in/kaykyerickdev/) · [✉️ E-mail](mailto:kaykyrck@gmail.com) · [💻 Repositórios](https://github.com/Kakykyyy?tab=repositories)
+Desenvolvo sistemas web, APIs e integrações para organizar dados e simplificar rotinas. No CampaignFlow, transformei dados de clientes e carrinhos em um fluxo de segmentação e agendamento de campanhas.
 
-## ⚡ Modo lendário
+## 03 — ABILITY TREE
 
-A energia verde vem do Broly. Por aqui, a transformação acontece a cada problema resolvido, integração que funciona e bug que finalmente dá as caras.
-
-- **Back-end** · APIs, regras de negócio e integração entre sistemas.
-- **Dados** · Modelagem, consultas SQL e importação de dados.
-- **Front-end** · Interfaces para consultar, revisar e operar fluxos de trabalho.
-
-## 🧪 Arsenal técnico
-
-| Área | Equipamento |
+| Ramo | Habilidades |
 | --- | --- |
-| Linguagens | Python · JavaScript · PHP |
-| Front-end | HTML5 · CSS3 · Bootstrap |
-| Back-end | FastAPI · SQLAlchemy |
-| Banco de dados | SQL · SQLite · MySQL |
-| Ferramentas | Git · GitHub · VS Code |
+| ↳ **Developer Mode** | PHP · Python · JavaScript |
+| ↳ **Interface** | HTML5 · CSS3 · Bootstrap |
+| ↳ **API Core** | FastAPI · SQLAlchemy |
+| ↳ **Database Core** | MySQL · SQLite · SQL |
+| ↳ **Tools** | Git · GitHub · VS Code |
 
-## 🥊 Missões em destaque
+## 04 — MISSION SELECT
 
-### 01 · [CampaignFlow](https://github.com/Kakykyyy/campaignflow)
+### ◈ [CampaignFlow](https://github.com/Kakykyyy/campaignflow)
 
-**Desafio** · Transformar dados de clientes e carrinhos em campanhas que possam ser revisadas e acompanhadas.
-
-O sistema importa dados da DummyJSON, segmenta clientes por regras e permite revisar os segmentos antes de agendar mensagens. O painel mostra o cronograma e exporta o histórico filtrado em CSV. Os envios de WhatsApp são simulados localmente.
+Importa dados da DummyJSON, segmenta clientes e permite revisar segmentos antes do agendamento. Inclui painel, exportação CSV e simulação local de mensagens de WhatsApp.
 
 **Stack** · Python, FastAPI, SQLAlchemy, SQLite, Jinja2, Bootstrap e JavaScript  
-[📸 Ver capturas da aplicação](https://github.com/Kakykyyy/campaignflow/tree/main/docs/screenshots)
+[Ver capturas da aplicação](https://github.com/Kakykyyy/campaignflow/tree/main/docs/screenshots)
 
-### 02 · [Barcode API](https://github.com/Kakykyyy/barcode-API)
+### ◈ [Barcode API](https://github.com/Kakykyyy/barcode-API)
 
-**Desafio** · Organizar um catálogo de produtos com operações simples de consulta e cadastro.
-
-A API permite cadastrar produtos, consultar por ID, listar com paginação e excluir registros. O cadastro sinaliza produtos duplicados.
+API de catálogo com cadastro, listagem paginada, consulta por ID, exclusão e tratamento de produtos duplicados.
 
 **Stack** · Python, FastAPI e SQLAlchemy
 
 <details>
-<summary>🔓 Abrir o terminal de rotas da Barcode API</summary>
+<summary>Abrir terminal de rotas</summary>
 
 | Operação | Rota |
 | --- | --- |
 | Cadastrar | `POST /produtos/` |
 | Listar | `GET /produtos/` |
-| Consultar por ID | `GET /produtos/{product_id}` |
+| Consultar | `GET /produtos/{product_id}` |
 | Excluir | `DELETE /produtos/{product_id}` |
 
 </details>
 
-## 📡 Canal de comunicação
+### ◈ [Dev Junior Projects](https://github.com/Kakykyyy/dev-junior-projects)
 
-Quer conversar sobre um projeto web ou uma integração? Me chama.
+Coleção de exercícios de lógica, estruturas de dados e organização de código.
+
+## 05 — PLAYER STATISTICS
+
+[Ver o gráfico de contribuições no GitHub](https://github.com/Kakykyyy#contribution-activity) · [Explorar repositórios e linguagens](https://github.com/Kakykyyy?tab=repositories)
+
+## 06 — NEXT EVOLUTION
+
+Meu foco é construir sistemas web que conectem dados, interfaces e automações em fluxos simples de usar.
 
 [💼 LinkedIn](https://www.linkedin.com/in/kaykyerickdev/) · [✉️ E-mail](mailto:kaykyrck@gmail.com) · [💻 GitHub](https://github.com/Kakykyyy)
 
-![Salvando progresso. Até a próxima!](assets/footer.svg)
+![Salvando progresso](assets/footer.svg)
